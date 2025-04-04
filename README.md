@@ -1,4 +1,4 @@
-# 🤖 Tiago - Robótica, Programação e Inteligência Artificial
+## Hi there 👋  🤖 Tiago here - Developing myself
 
 Sou apaixonado por **robótica**, **programação** e **inteligência artificial**, áreas que abracei através de experiências práticas e intensas. Algumas das minhas conquistas incluem:
 
@@ -40,7 +40,6 @@ Se quiser trocar ideia, fazer parceria ou conhecer mais sobre meus projetos:
 
 Feito com 💙 e propósito.
 
-## Hi there 👋
 
 <!--
 **tiagoarantess/tiagoarantess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
