@@ -1,7 +1,5 @@
 # 🤖 Tiago - Robótica, Programação e Inteligência Artificial
 
-> "Valorizo e me proponho a construir um ambiente saudável de relacionamentos interpessoais."
-
 Sou apaixonado por **tecnologia**, **robótica**, **programação** e **inteligência artificial**, áreas que abracei através de experiências práticas intensas e transformadoras. Algumas das minhas conquistas incluem:
 
 - 🧠 **Capitão e programador de equipes de robótica**, com vitórias em competições **estaduais** e **nacionais**
@@ -10,12 +8,13 @@ Sou apaixonado por **tecnologia**, **robótica**, **programação** e **intelig�
 - 💼 Forte atuação com **liderança** e **soft skills**, fortalecida por cursos recentes
 - 💻 Cursando **Análise e Desenvolvimento de Sistemas** com **100% de bolsa** na Faculdade Farias Brito
 
+> Todas as experiências e premiações estão detalhadas no meu [Currículo Lattes](#).
 ---
 
 ## ✨ O que me move
 Busco constantemente evoluir tanto tecnicamente quanto como ser humano, criando impacto positivo através de tecnologia, trabalho em equipe e dedicação constante.
 
-> Todas as experiências e premiações estão detalhadas no meu [Currículo Lattes](#).
+> "Valorizo e me proponho a construir um ambiente saudável de relacionamentos interpessoais."
 
 ---
 
