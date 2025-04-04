@@ -1,6 +1,6 @@
 # 🤖 Tiago - Robótica, Programação e Inteligência Artificial
 
-Sou apaixonado por **tecnologia**, **robótica**, **programação** e **inteligência artificial**, áreas que abracei através de experiências práticas intensas e transformadoras. Algumas das minhas conquistas incluem:
+Sou apaixonado por **robótica**, **programação** e **inteligência artificial**, áreas que abracei através de experiências práticas e intensas. Algumas das minhas conquistas incluem:
 
 - 🧠 **Capitão e programador de equipes de robótica**, com vitórias em competições **estaduais** e **nacionais**
 - 🏆 1º lugar na maior feira de ciências do Centro-Oeste, a **FETEC MS**, com projeto de **Iniciação Científica em IA**
@@ -33,8 +33,8 @@ Busco constantemente evoluir tanto tecnicamente quanto como ser humano, criando 
 
 Se quiser trocar ideia, fazer parceria ou conhecer mais sobre meus projetos:
 
-- GitHub: [@teu-usuario](https://github.com/teu-usuario)
-- Email: [teu-email@email.com](mailto:teu-email@email.com)
+- LinkedIn: linkedin.com/in/tiago-arantes-da-silva-971480267.
+- Email: tiagoas3649@gmail.com
 
 ---
 
