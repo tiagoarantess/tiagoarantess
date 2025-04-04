@@ -33,7 +33,7 @@ Busco constantemente evoluir tanto tecnicamente quanto como ser humano, criando 
 
 Se quiser trocar ideia, fazer parceria ou conhecer mais sobre meus projetos:
 
-- LinkedIn: linkedin.com/in/tiago-arantes-da-silva-971480267.
+- LinkedIn: www.linkedin.com/in/tiago-arantes-da-silva-971480267
 - Email: tiagoas3649@gmail.com
 
 ---
