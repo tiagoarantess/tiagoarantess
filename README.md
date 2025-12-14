@@ -8,7 +8,7 @@ Sou apaixonado por **robótica**, **programação** e **inteligência artificial
 - 💼 Forte atuação com **liderança** e **soft skills**, fortalecida por cursos recentes
 - 💻 Cursando **Análise e Desenvolvimento de Sistemas** com **100% de bolsa** na Faculdade Farias Brito
 
-> Todas as experiências e premiações estão detalhadas no meu [Currículo Lattes](#).
+> Todas as experiências e premiações estão detalhadas no meu [Currículo Lattes](http://lattes.cnpq.br/8029069605903179).
 ---
 
 ## ✨ O que me move
